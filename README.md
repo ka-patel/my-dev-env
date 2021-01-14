@@ -1,1 +1,19 @@
 # my-dev-env
+
+
+Install following:
+
+(Required)
+zsh (https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
+oh-my-zsh (https://ohmyz.sh/#install)
+
+tmux (https://github.com/tmux/tmux/wiki/Installing)
+oh-my-tmux (https://github.com/gpakosz/.tmux)
+
+powerline vim (https://github.com/powerline/powerline)
+
+powerline fonts (https://github.com/powerline/fonts)
+
+(Optional)
+vim-airline (https://github.com/vim-airline/vim-airline)
+
