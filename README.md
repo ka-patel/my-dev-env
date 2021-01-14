@@ -4,6 +4,7 @@
 Install following:
 
 (Required)
+
 	zsh (https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
 	oh-my-zsh (https://ohmyz.sh/#install)
 	
@@ -17,5 +18,6 @@ Install following:
 	powerlevel10k (https://github.com/romkatv/powerlevel10k)
 
 (Optional)
+
 	vim-airline (https://github.com/vim-airline/vim-airline)
 
