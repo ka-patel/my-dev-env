@@ -21,7 +21,7 @@ Install following:
 
 	vim-airline (https://github.com/vim-airline/vim-airline)
 
-Once all dot files are copied into your home directory, enjoy it by simply typing in tmux at the command prompt.
+Once all dot files are copied into your home directory, test drive it by simply typing in tmux at the command prompt.
 
 Enjoy!
 
